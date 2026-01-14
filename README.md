@@ -2,7 +2,7 @@
 
 👋: Hi, I'm Jessie! I use she/her pronouns and I am from Boston, Massachusetts.
 
-🏫: I am a second year student at Northeastern University. I am studying Computer Science and Cognitive Psychology, housed in the Khoury College of Computer Science.
+🏫: I am a third year student at Northeastern University. I am studying Computer Science and Cognitive Psychology, housed in the Khoury College of Computer Science.
 
 ✏️: I am fascinated in learning about how humans interact with computers and how we, as developers, can make this process as efficient and intuitive as possible for all. I am passionate about creating technology that is accessible to all by diving deep into the interdisciplinary fields of Psychology and Computer Science. I hope to continue growing this passion by working in UI/UX software development jobs and working with more experienced front-end developers. I am eager to continue to grow my skills as a software developer and excited to get started in the tech industry.
 
